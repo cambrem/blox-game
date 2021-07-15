@@ -2,7 +2,7 @@
 <h2><b>ReadMe </b></h2>
 
 This program uses GLUT and OpenGL, which should be installed prior to running. 
-We have been running this program on Mac OS, however our CMakeLists.txt should allow it to be run on Windows as well. 
+I have been running this program on Mac OS, however CMakeLists.txt should allow it to be run on Windows as well. 
 
 This program is a graphical game involving a player object that is moved by the user via the arrow keyboard keys.
 The goal of this game is to collect the treasure boxes while avoiding the obstacles. 
