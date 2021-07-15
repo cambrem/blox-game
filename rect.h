@@ -1,5 +1,5 @@
-#ifndef GRAPHICSEXAMPLES_RECT_H
-#define GRAPHICSEXAMPLES_RECT_H
+#ifndef RECT_H
+#define RECT_H
 
 #include "shape.h"
 
@@ -70,4 +70,4 @@ public:
 };
 
 
-#endif //GRAPHICSEXAMPLES_RECT_H
+#endif //RECT_H

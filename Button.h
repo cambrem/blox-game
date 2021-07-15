@@ -1,5 +1,5 @@
-#ifndef FINAL_PROJECT_EWEST3_AMDOWNS_CBREMNER_BUTTON_H
-#define FINAL_PROJECT_EWEST3_AMDOWNS_CBREMNER_BUTTON_H
+#ifndef BUTTON_H
+#define BUTTON_H
 
 #include "rect.h"
 #include <string>
@@ -28,4 +28,4 @@ public:
 };
 
 
-#endif //FINAL_PROJECT_EWEST3_AMDOWNS_CBREMNER_BUTTON_H
+#endif //BUTTON_H

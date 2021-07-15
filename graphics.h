@@ -1,5 +1,5 @@
-#ifndef graphics_h
-#define graphics_h
+#ifndef GRAPHICS_H
+#define GRAPHICS_H
 
 #include <stdlib.h>
 #ifdef _WIN32
@@ -46,4 +46,4 @@ void timer(int dummy);
 // Handle mouse button pressed and released events
 void mouse(int button, int state, int x, int y);
 
-#endif /* graphics_h */
+#endif /* GRAPHICS_H */
