@@ -1,8 +1,6 @@
 
 <h2><b>ReadMe </b></h2>
 
-Program Author: Cameron Bremner
-
 This program uses GLUT and OpenGL, which should be installed prior to running. 
 We have been running this program on Mac OS, however our CMakeLists.txt should allow it to be run on Windows as well. 
 
