@@ -1,11 +1,8 @@
 
 <h2><b>ReadMe </b></h2>
 
-Program Authors: Ethan West, Alex Downs, and Cameron Bremner
-Video Link: https://web.microsoftstream.com/video/64214198-c9c5-4ee2-b8e3-902fdc398260
-
 This program uses GLUT and OpenGL, which should be installed prior to running. 
-We have been running this program on Mac OS, however our CMakeLists.txt should allow it to be run on Windows as well. 
+I have been running this program on Mac OS, however CMakeLists.txt should allow it to be run on Windows as well. 
 
 This program is a graphical game involving a player object that is moved by the user via the arrow keyboard keys.
 The goal of this game is to collect the treasure boxes while avoiding the obstacles. 
@@ -25,9 +22,4 @@ As the user collects treasure, the speed of both the treasure and the obstacles 
 Once the round is over, whether that be by collecting all the treasure and winning or losing all three lives and losing, the screen will 
 display the time it took to complete the game and the option to press p and play again, which will take the user back to the initial screen where they can again choose a difficulty level.
 They can also press esc to exit the game and close the window at this point or any point throughout the game.
-
-This project includes concepts from modules 2 and 4.
-We are using the module 2 concepts of class inheritance/polymorphism for the different components of the game (player, obstacles, and treasure), and the module 4 graphics concepts for the graphical to actually construct the game and implement the user controls. 
-
-
 
